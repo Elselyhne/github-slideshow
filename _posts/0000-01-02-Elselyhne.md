@@ -1,2 +1,6 @@
-this is my first real file
-in here I could write some .php code
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
